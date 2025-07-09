@@ -25,6 +25,10 @@ This project emphasizes:
 - Turn-based game logic
 - User interaction through command-line and graphical interfaces
 
+## 📄 More Information
+
+See [demo.pdf](demo.pdf), [design.pdf](design.pdf), or [uml-final.pdf](uml-final.pdf) for more details.
+
 ---
 
 📅 Developed in August 2021 as part of the CS final project at the UWaterloo
